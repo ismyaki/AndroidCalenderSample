@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LibCalenderSample.iml" filepath="$PROJECT_DIR$/LibCalenderSample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/calenderProject/calenderProject.iml" filepath="$PROJECT_DIR$/calenderProject/calenderProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libCalender/libCalender.iml" filepath="$PROJECT_DIR$/libCalender/libCalender.iml" />
+    </modules>
+  </component>
+</project>

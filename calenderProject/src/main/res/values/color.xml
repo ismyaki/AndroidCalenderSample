@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="main_light_red">#ea3e3e</drawable>
+    <drawable name="alpha_white">#A0FFFFFF</drawable>
+    <drawable name="alpha_black">#30000000</drawable>
+	
+    <color name="default_bg">#F7D9DA</color>
+    <color name="progress_color">#C88F90</color>
+    <color name="default_color">#EEBCC4</color>
+    <color name="default_from_color">#8AC8C2</color>
+    <color name="default_bar_color">#8AC8C2</color>
+    
+    <color name="default_seek_bar_solid_color">#81CABF</color>
+    <color name="default_seek_bar_stroke_color">#478F81</color>
+    
+    <color name="multimedia_default_color">#EEBCC4</color>
+    <color name="multimedia_mark_color">#E88082</color>
+    
+    <color name="text_color_title">#8A795D</color>
+    <color name="text_color_title2">#8A795D</color>
+    <color name="text_color">#8A795D</color>
+    <color name="text_color2">#4E4D4D</color>
+    <color name="text_color3">#4A9081</color>
+    <color name="text_color_stacker">#232936</color>
+    
+    <color name="point_on">#92CAC1</color>
+    <color name="point_off">#51706B</color>
+    
+    <color name="darkpink">#AD3739</color>
+	
+    <color name="news_item_time_color">#B4B3B3</color>
+    <color name="book_item_title">#FFCC5E5E</color>
+    
+	<color name="pink">#EEBCC4</color>
+    <color name="transparent_half">#77000000</color>
+    <color name="transparent_little">#dd000000</color>  
+    <color name="main_light_red">#ea3e3e</color>
+    <color name="black_ee">#dd000000</color>
+    
+    <color name="tab_color_on">#539487</color>
+    <color name="tab_color_off">#94BCB4</color>
+    <color name="album_memu_off">#c27777</color>
+    
+    <color name="orange">#ff5500</color> 
+	<color name="white">#FFFFFF</color> 
+	<color name="transparent">#00000000</color> 
+	<color name="date_color">#999999</color> 
+	 
+	<color name="gray">#999999</color> 
+	<color name="blue">#0066cc</color> 
+	<color name="gold">#e6b121</color> 
+	<color name="blueback">#99FFFF</color> 
+	<color name="articlecolor">#3399FF</color>  
+	<color name="cachecolor">#8ad0e8</color> 
+	<color name="titletxt">#FF1B1464</color>
+	<color name="red">#ff0000</color>
+	<color name="gray_orange">#FFF7CD42</color>
+	<color name="light_orange">#FFFCEE21</color>
+	<color name="itembg">#CCFF8000</color>
+	<color name="itemtitle">#FF6BFF3B</color>
+	<color name="transparentwhite">#CCFFFFFF</color>
+	<color name="lightgreen">#ff4BF558</color>
+	<color name="orange2">#FFFFCC00</color>
+	<color name="darkblue">#cc00003C</color>
+	<color name="systemnew">#ffa40000</color>
+	<color name="yellow">#F9CC30</color>
+	<color name="green">#8AC8C2</color>
+	<color name="green_transparent">#D6EAE8</color>
+	
+	<color name="sticker_bg">#FBF6F0</color>
+    
+	<color name="gmame_rotate_f1">#498F81</color>
+    <color name="gmame_rotate_f2">#8AC8C2</color>
+    
+    <color name="gmame_rotate_white">#FFFFFF</color>
+    <color name="gmame_rotate_pink">#EDCEC9</color>
+    
+    <!-- 色碼 -->
+    <color name="title_gray">#4E4D4D</color>
+    <color name="title_white">#FFFFFF</color>
+    
+    <color name="txt_brown">#8A795D</color>
+    <color name="txt_gray">#4E4D4D</color>
+    <color name="txt_gray_alpha">#a04E4D4D</color>
+    
+    <color name="txt_bluegreen">#8AC8C2</color>
+    <color name="txt_deepbluegreen">#4A9081</color>
+    
+    <color name="txt_gray_small">#B4B3B3</color>
+    <color name="hint">#B4B3B3</color>
+    
+    <color name="light_bluegreen">#D6EAE8</color>
+    <color name="bluegreen">#9CD0CC</color>
+    
+    <color name="divider_light_bluegreen">#D6EAE8</color>
+    <color name="divider_bluegreen">#9CD0CC</color>        
+	<color name="stoke_bluegreen">#8AC8C2</color>
+	
+	<color name="btn_login">#FFE999</color>
+	
+	
+    <!-- 色碼 -->
+	<color name="bg_black">#111111</color>
+	
+    <color name="txt_black">#000000</color>
+    <color name="txt_white">#FFFFFF</color>
+    
+    <color name="et_bg_green">#349D98</color>
+    <color name="et_bg_red">#F58668</color>
+    <color name="et_bg_blue">#517897</color>
+    
+    <color name="btn_bg_yellow">#FFE999</color>
+    
+    
+</resources>
